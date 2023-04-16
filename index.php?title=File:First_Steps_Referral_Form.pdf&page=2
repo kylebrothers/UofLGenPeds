@@ -32,7 +32,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 				<!-- logo and main page link -->
 				<div id="p-logo" class="p-logo navbar-brand" role="banner">
-					<a href="index.php/Provider_Home" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
+					<a href="index.php/Provider_Home.html" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
 				</div>
 
 
@@ -40,7 +40,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 			<div class="collapse navbar-collapse" id="mw-navigation-collapse"><ul class="nav navbar-nav">
 				<!-- navigation -->
-				<li id="n-Provider-Home"><a href="index.php/Provider_Home">Provider Home</a></li>
+				<li id="n-Provider-Home"><a href="index.php/Provider_Home.html">Provider Home</a></li>
 				<li id="n-Nursing-Home"><a href="index.php/Nursing_Home">Nursing Home</a></li></ul>
 
 				<div class="navbar-right-aligned">
@@ -85,7 +85,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 				<!-- logo and main page link -->
 				<div id="p-logo-hcsahy09ed" class="p-logo navbar-brand" role="banner">
-					<a href="index.php/Provider_Home" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
+					<a href="index.php/Provider_Home.html" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
 				</div>
 
 
@@ -93,7 +93,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 			<div class="collapse navbar-collapse" id="mw-navigation-hcsahy096i-collapse"><ul class="nav navbar-nav">
 				<!-- navigation -->
-				<li id="n-Provider-Home-hcsahy09no"><a href="index.php/Provider_Home">Provider Home</a></li>
+				<li id="n-Provider-Home-hcsahy09no"><a href="index.php/Provider_Home.html">Provider Home</a></li>
 				<li id="n-Nursing-Home-hcsahy09ts"><a href="index.php/Nursing_Home">Nursing Home</a></li></ul>
 
 				<div class="navbar-right-aligned">
@@ -196,8 +196,8 @@ Transclusion expansion time report (%,ms,calls,template)
 <div id='mw-imagepage-section-linkstoimage'>
 <p>The following 2 pages link to this file:
 </p><ul class="mw-imagepage-linkstoimage">
-<li class="mw-imagepage-linkstoimage-ns0"><a href="index.php/Development_and_Therapy_Referral_Forms" title="Development and Therapy Referral Forms">Development and Therapy Referral Forms</a></li>
-<li class="mw-imagepage-linkstoimage-ns0"><a href="index.php/Diagnosis_and_Screening_Instruments_for_Psychiatric_and_Developmental_Disorders" title="Diagnosis and Screening Instruments for Psychiatric and Developmental Disorders">Diagnosis and Screening Instruments for Psychiatric and Developmental Disorders</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="index.php/Development_and_Therapy_Referral_Forms.html" title="Development and Therapy Referral Forms">Development and Therapy Referral Forms</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="index.php/Diagnosis_and_Screening_Instruments_for_Psychiatric_and_Developmental_Disorders.html" title="Diagnosis and Screening Instruments for Psychiatric and Developmental Disorders">Diagnosis and Screening Instruments for Psychiatric and Developmental Disorders</a></li>
 </ul>
 </div>
 <h2 id="metadata">Metadata</h2>

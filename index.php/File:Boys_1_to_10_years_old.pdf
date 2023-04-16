@@ -32,7 +32,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 				<!-- logo and main page link -->
 				<div id="p-logo" class="p-logo navbar-brand" role="banner">
-					<a href="Provider_Home" title="Visit the main page"><img src="../resources/assets/UL.png" alt="UofL General Peds"/></a>
+					<a href="Provider_Home.html" title="Visit the main page"><img src="../resources/assets/UL.png" alt="UofL General Peds"/></a>
 				</div>
 
 
@@ -40,7 +40,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 			<div class="collapse navbar-collapse" id="mw-navigation-collapse"><ul class="nav navbar-nav">
 				<!-- navigation -->
-				<li id="n-Provider-Home"><a href="Provider_Home">Provider Home</a></li>
+				<li id="n-Provider-Home"><a href="Provider_Home.html">Provider Home</a></li>
 				<li id="n-Nursing-Home"><a href="Nursing_Home">Nursing Home</a></li></ul>
 
 				<div class="navbar-right-aligned">
@@ -85,7 +85,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 				<!-- logo and main page link -->
 				<div id="p-logo-hcs41lffkz" class="p-logo navbar-brand" role="banner">
-					<a href="Provider_Home" title="Visit the main page"><img src="../resources/assets/UL.png" alt="UofL General Peds"/></a>
+					<a href="Provider_Home.html" title="Visit the main page"><img src="../resources/assets/UL.png" alt="UofL General Peds"/></a>
 				</div>
 
 
@@ -93,7 +93,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 			<div class="collapse navbar-collapse" id="mw-navigation-hcs41lffbk-collapse"><ul class="nav navbar-nav">
 				<!-- navigation -->
-				<li id="n-Provider-Home-hcs41lffv8"><a href="Provider_Home">Provider Home</a></li>
+				<li id="n-Provider-Home-hcs41lffv8"><a href="Provider_Home.html">Provider Home</a></li>
 				<li id="n-Nursing-Home-hcs41lfg3i"><a href="Nursing_Home">Nursing Home</a></li></ul>
 
 				<div class="navbar-right-aligned">
@@ -193,8 +193,8 @@ Transclusion expansion time report (%,ms,calls,template)
 <div id='mw-imagepage-section-linkstoimage'>
 <p>The following 2 pages link to this file:
 </p><ul class="mw-imagepage-linkstoimage">
-<li class="mw-imagepage-linkstoimage-ns0"><a href="Blood_Pressure_Guidelines" title="Blood Pressure Guidelines">Blood Pressure Guidelines</a></li>
-<li class="mw-imagepage-linkstoimage-ns0"><a href="Vital_Signs_Resources" title="Vital Signs Resources">Vital Signs Resources</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="Blood_Pressure_Guidelines.html" title="Blood Pressure Guidelines">Blood Pressure Guidelines</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="Vital_Signs_Resources.html" title="Vital Signs Resources">Vital Signs Resources</a></li>
 </ul>
 </div>
 <h2 id="metadata">Metadata</h2>

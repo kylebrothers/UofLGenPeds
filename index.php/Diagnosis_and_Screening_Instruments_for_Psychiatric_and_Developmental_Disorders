@@ -32,7 +32,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 				<!-- logo and main page link -->
 				<div id="p-logo" class="p-logo navbar-brand" role="banner">
-					<a href="Provider_Home" title="Visit the main page"><img src="../resources/assets/UL.png" alt="UofL General Peds"/></a>
+					<a href="Provider_Home.html" title="Visit the main page"><img src="../resources/assets/UL.png" alt="UofL General Peds"/></a>
 				</div>
 
 
@@ -40,7 +40,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 			<div class="collapse navbar-collapse" id="mw-navigation-collapse"><ul class="nav navbar-nav">
 				<!-- navigation -->
-				<li id="n-Provider-Home"><a href="Provider_Home">Provider Home</a></li>
+				<li id="n-Provider-Home"><a href="Provider_Home.html">Provider Home</a></li>
 				<li id="n-Nursing-Home"><a href="Nursing_Home">Nursing Home</a></li></ul>
 
 				<div class="navbar-right-aligned">
@@ -63,7 +63,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 						<li class="dropdown navbar-tools-tools">
 							<a class="dropdown-toggle navbar-usernotloggedin" href="Diagnosis_and_Screening_Instruments_for_Psychiatric_and_Developmental_Disorders#" data-toggle="dropdown" title="You are not logged in." ><span class="glyphicon glyphicon-user"></span></a>
 							<ul class="p-personal-tools dropdown-menu dropdown-menu-right" >
-								<li id="pt-login"><a href="../index.php?title=Special:UserLogin&amp;returnto=Diagnosis+and+Screening+Instruments+for+Psychiatric+and+Developmental+Disorders" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+								<li id="pt-login"><a href="../index.php?title=Special:UserLogin&amp;returnto=Diagnosis+and+Screening+Instruments+for+Psychiatric+and+Developmental+Disorders.html" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -85,7 +85,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 				<!-- logo and main page link -->
 				<div id="p-logo-hcs38v2auv" class="p-logo navbar-brand" role="banner">
-					<a href="Provider_Home" title="Visit the main page"><img src="../resources/assets/UL.png" alt="UofL General Peds"/></a>
+					<a href="Provider_Home.html" title="Visit the main page"><img src="../resources/assets/UL.png" alt="UofL General Peds"/></a>
 				</div>
 
 
@@ -93,7 +93,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 			<div class="collapse navbar-collapse" id="mw-navigation-hcs38v2an1-collapse"><ul class="nav navbar-nav">
 				<!-- navigation -->
-				<li id="n-Provider-Home-hcs38v2b49"><a href="Provider_Home">Provider Home</a></li>
+				<li id="n-Provider-Home-hcs38v2b49"><a href="Provider_Home.html">Provider Home</a></li>
 				<li id="n-Nursing-Home-hcs38v2ban"><a href="Nursing_Home">Nursing Home</a></li></ul>
 
 				<div class="navbar-right-aligned">
@@ -116,7 +116,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 						<li class="dropdown navbar-tools-tools">
 							<a class="dropdown-toggle navbar-usernotloggedin" href="Diagnosis_and_Screening_Instruments_for_Psychiatric_and_Developmental_Disorders#" data-toggle="dropdown" title="You are not logged in." ><span class="glyphicon glyphicon-user"></span></a>
 							<ul class="p-personal-tools dropdown-menu dropdown-menu-right" >
-								<li id="pt-login-hcs38v2cyj"><a href="../index.php?title=Special:UserLogin&amp;returnto=Diagnosis+and+Screening+Instruments+for+Psychiatric+and+Developmental+Disorders" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+								<li id="pt-login-hcs38v2cyj"><a href="../index.php?title=Special:UserLogin&amp;returnto=Diagnosis+and+Screening+Instruments+for+Psychiatric+and+Developmental+Disorders.html" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -148,7 +148,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 						<!-- body text -->
 
 						<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><h3><span class="mw-headline" id="Condition-Specific_Resources">Condition-Specific Resources</span></h3>
-<ul><li> <a href="ADHD_Forms" title="ADHD Forms">ADHD Forms</a></li>
+<ul><li> <a href="ADHD_Forms.html" title="ADHD Forms">ADHD Forms</a></li>
 <li> Anxiety Measures
 <ul><li> <a rel="nofollow" class="external text" href="http://www.scaswebsite.com/1_5_.html">Spence Preschool Anxiety Scale (SCAS)</a> - SCARED for preschool-aged children.</li>
 <li> Other versions of SCARED can be found at the Clinical Rating Scales for Mental Health and Behavioral Problems website (see below)</li></ul></li>

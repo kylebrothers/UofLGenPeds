@@ -63,7 +63,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 						<li class="dropdown navbar-tools-tools">
 							<a class="dropdown-toggle navbar-usernotloggedin" href="_EPSDT_Resources#" data-toggle="dropdown" title="You are not logged in." ><span class="glyphicon glyphicon-user"></span></a>
 							<ul class="p-personal-tools dropdown-menu dropdown-menu-right" >
-								<li id="pt-login"><a href="../../index.php?title=Special:UserLogin&amp;returnto=Well-Child+Check+%252F+EPSDT+Resources" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+								<li id="pt-login"><a href="../../index.php?title=Special:UserLogin&amp;returnto=Well-Child+Check+%252F+EPSDT+Resources.html" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -116,7 +116,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 						<li class="dropdown navbar-tools-tools">
 							<a class="dropdown-toggle navbar-usernotloggedin" href="_EPSDT_Resources#" data-toggle="dropdown" title="You are not logged in." ><span class="glyphicon glyphicon-user"></span></a>
 							<ul class="p-personal-tools dropdown-menu dropdown-menu-right" >
-								<li id="pt-login-hcs37ddilg"><a href="../../index.php?title=Special:UserLogin&amp;returnto=Well-Child+Check+%252F+EPSDT+Resources" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+								<li id="pt-login-hcs37ddilg"><a href="../../index.php?title=Special:UserLogin&amp;returnto=Well-Child+Check+%252F+EPSDT+Resources.html" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
 							</ul>
 						</li>
 					</ul>

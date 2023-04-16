@@ -32,7 +32,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 				<!-- logo and main page link -->
 				<div id="p-logo" class="p-logo navbar-brand" role="banner">
-					<a href="index.php/Provider_Home" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
+					<a href="index.php/Provider_Home.html" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
 				</div>
 
 
@@ -40,7 +40,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 			<div class="collapse navbar-collapse" id="mw-navigation-collapse"><ul class="nav navbar-nav">
 				<!-- navigation -->
-				<li id="n-Provider-Home"><a href="index.php/Provider_Home">Provider Home</a></li>
+				<li id="n-Provider-Home"><a href="index.php/Provider_Home.html">Provider Home</a></li>
 				<li id="n-Nursing-Home"><a href="index.php/Nursing_Home">Nursing Home</a></li></ul>
 
 				<div class="navbar-right-aligned">
@@ -85,7 +85,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 				<!-- logo and main page link -->
 				<div id="p-logo-hcsbhzqcr3" class="p-logo navbar-brand" role="banner">
-					<a href="index.php/Provider_Home" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
+					<a href="index.php/Provider_Home.html" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
 				</div>
 
 
@@ -93,7 +93,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 			<div class="collapse navbar-collapse" id="mw-navigation-hcsbhzqch5-collapse"><ul class="nav navbar-nav">
 				<!-- navigation -->
-				<li id="n-Provider-Home-hcsbhzqd0a"><a href="index.php/Provider_Home">Provider Home</a></li>
+				<li id="n-Provider-Home-hcsbhzqd0a"><a href="index.php/Provider_Home.html">Provider Home</a></li>
 				<li id="n-Nursing-Home-hcsbhzqd7v"><a href="index.php/Nursing_Home">Nursing Home</a></li></ul>
 
 				<div class="navbar-right-aligned">
@@ -196,7 +196,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div id='mw-imagepage-section-linkstoimage'>
 <p>The following page links to this file:
 </p><ul class="mw-imagepage-linkstoimage">
-<li class="mw-imagepage-linkstoimage-ns0"><a href="index.php/Parent_Handouts_-_Failure_to_Thrive" title="Parent Handouts - Failure to Thrive">Parent Handouts - Failure to Thrive</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="index.php/Parent_Handouts_-_Failure_to_Thrive.html" title="Parent Handouts - Failure to Thrive">Parent Handouts - Failure to Thrive</a></li>
 </ul>
 </div>
 <h2 id="metadata">Metadata</h2>

@@ -33,7 +33,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 				<!-- logo and main page link -->
 				<div id="p-logo" class="p-logo navbar-brand" role="banner">
-					<a href="index.php/Provider_Home" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
+					<a href="index.php/Provider_Home.html" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
 				</div>
 
 
@@ -41,7 +41,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 			<div class="collapse navbar-collapse" id="mw-navigation-collapse"><ul class="nav navbar-nav">
 				<!-- navigation -->
-				<li id="n-Provider-Home"><a href="index.php/Provider_Home">Provider Home</a></li>
+				<li id="n-Provider-Home"><a href="index.php/Provider_Home.html">Provider Home</a></li>
 				<li id="n-Nursing-Home"><a href="index.php/Nursing_Home">Nursing Home</a></li></ul>
 
 				<div class="navbar-right-aligned">
@@ -86,7 +86,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 				<!-- logo and main page link -->
 				<div id="p-logo-hcsb9yszln" class="p-logo navbar-brand" role="banner">
-					<a href="index.php/Provider_Home" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
+					<a href="index.php/Provider_Home.html" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
 				</div>
 
 
@@ -94,7 +94,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 			<div class="collapse navbar-collapse" id="mw-navigation-hcsb9yszc6-collapse"><ul class="nav navbar-nav">
 				<!-- navigation -->
-				<li id="n-Provider-Home-hcsb9yszus"><a href="index.php/Provider_Home">Provider Home</a></li>
+				<li id="n-Provider-Home-hcsb9yszus"><a href="index.php/Provider_Home.html">Provider Home</a></li>
 				<li id="n-Nursing-Home-hcsb9yt03r"><a href="index.php/Nursing_Home">Nursing Home</a></li></ul>
 
 				<div class="navbar-right-aligned">
@@ -200,7 +200,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div id='mw-imagepage-section-linkstoimage'>
 <p>The following 2 pages link to this file:
 </p><ul class="mw-imagepage-linkstoimage">
-<li class="mw-imagepage-linkstoimage-ns0"><a href="index.php/ADHD_Forms" title="ADHD Forms">ADHD Forms</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="index.php/ADHD_Forms.html" title="ADHD Forms">ADHD Forms</a></li>
 <li class="mw-imagepage-linkstoimage-ns6"><a href="./index.php?title=File:Vanderbilt_ADHD_-_Teacher_-_Initial.pdf&amp;redirect=no" title="File:Vanderbilt ADHD - Teacher - Initial.pdf">File:Vanderbilt ADHD - Teacher - Initial.pdf</a> (file redirect) </li>
 </ul>
 </div>

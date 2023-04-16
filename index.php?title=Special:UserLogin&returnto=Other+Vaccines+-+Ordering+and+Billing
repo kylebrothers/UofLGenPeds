@@ -33,7 +33,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 				<!-- logo and main page link -->
 				<div id="p-logo" class="p-logo navbar-brand" role="banner">
-					<a href="index.php/Provider_Home" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
+					<a href="index.php/Provider_Home.html" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
 				</div>
 
 
@@ -41,7 +41,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 			<div class="collapse navbar-collapse" id="mw-navigation-collapse"><ul class="nav navbar-nav">
 				<!-- navigation -->
-				<li id="n-Provider-Home"><a href="index.php/Provider_Home">Provider Home</a></li>
+				<li id="n-Provider-Home"><a href="index.php/Provider_Home.html">Provider Home</a></li>
 				<li id="n-Nursing-Home"><a href="index.php/Nursing_Home">Nursing Home</a></li></ul>
 
 				<div class="navbar-right-aligned">
@@ -64,7 +64,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 						<li class="dropdown navbar-tools-tools">
 							<a class="dropdown-toggle navbar-usernotloggedin" href="./index.php?title=Special:UserLogin&amp;returnto=Other+Vaccines+-+Ordering+and+Billing#" data-toggle="dropdown" title="You are not logged in." ><span class="glyphicon glyphicon-user"></span></a>
 							<ul class="p-personal-tools dropdown-menu dropdown-menu-right" >
-								<li id="pt-login" class="active"><a href="./index.php?title=Special:UserLogin&amp;returnto=Other+Vaccines+-+Ordering+and+Billing" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+								<li id="pt-login" class="active"><a href="./index.php?title=Special:UserLogin&amp;returnto=Other+Vaccines+-+Ordering+and+Billing.html" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -86,7 +86,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 				<!-- logo and main page link -->
 				<div id="p-logo-hcs5yeunr9" class="p-logo navbar-brand" role="banner">
-					<a href="index.php/Provider_Home" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
+					<a href="index.php/Provider_Home.html" title="Visit the main page"><img src="resources/assets/UL.png" alt="UofL General Peds"/></a>
 				</div>
 
 
@@ -94,7 +94,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 			<div class="collapse navbar-collapse" id="mw-navigation-hcs5yeunie-collapse"><ul class="nav navbar-nav">
 				<!-- navigation -->
-				<li id="n-Provider-Home-hcs5yeuo17"><a href="index.php/Provider_Home">Provider Home</a></li>
+				<li id="n-Provider-Home-hcs5yeuo17"><a href="index.php/Provider_Home.html">Provider Home</a></li>
 				<li id="n-Nursing-Home-hcs5yeuo7k"><a href="index.php/Nursing_Home">Nursing Home</a></li></ul>
 
 				<div class="navbar-right-aligned">
@@ -117,7 +117,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 						<li class="dropdown navbar-tools-tools">
 							<a class="dropdown-toggle navbar-usernotloggedin" href="./index.php?title=Special:UserLogin&amp;returnto=Other+Vaccines+-+Ordering+and+Billing#" data-toggle="dropdown" title="You are not logged in." ><span class="glyphicon glyphicon-user"></span></a>
 							<ul class="p-personal-tools dropdown-menu dropdown-menu-right" >
-								<li id="pt-login-hcs5yeupz6" class="active"><a href="./index.php?title=Special:UserLogin&amp;returnto=Other+Vaccines+-+Ordering+and+Billing" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+								<li id="pt-login-hcs5yeupz6" class="active"><a href="./index.php?title=Special:UserLogin&amp;returnto=Other+Vaccines+-+Ordering+and+Billing.html" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
 							</ul>
 						</li>
 					</ul>

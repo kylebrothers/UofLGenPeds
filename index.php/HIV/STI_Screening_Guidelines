@@ -63,7 +63,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 						<li class="dropdown navbar-tools-tools">
 							<a class="dropdown-toggle navbar-usernotloggedin" href="STI_Screening_Guidelines#" data-toggle="dropdown" title="You are not logged in." ><span class="glyphicon glyphicon-user"></span></a>
 							<ul class="p-personal-tools dropdown-menu dropdown-menu-right" >
-								<li id="pt-login"><a href="../../index.php?title=Special:UserLogin&amp;returnto=HIV%252FSTI+Screening+Guidelines" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+								<li id="pt-login"><a href="../../index.php?title=Special:UserLogin&amp;returnto=HIV%252FSTI+Screening+Guidelines.html" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -116,7 +116,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 						<li class="dropdown navbar-tools-tools">
 							<a class="dropdown-toggle navbar-usernotloggedin" href="STI_Screening_Guidelines#" data-toggle="dropdown" title="You are not logged in." ><span class="glyphicon glyphicon-user"></span></a>
 							<ul class="p-personal-tools dropdown-menu dropdown-menu-right" >
-								<li id="pt-login-hcs3542p4l"><a href="../../index.php?title=Special:UserLogin&amp;returnto=HIV%252FSTI+Screening+Guidelines" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+								<li id="pt-login-hcs3542p4l"><a href="../../index.php?title=Special:UserLogin&amp;returnto=HIV%252FSTI+Screening+Guidelines.html" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
 							</ul>
 						</li>
 					</ul>

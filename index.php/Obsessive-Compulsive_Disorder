@@ -32,7 +32,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 				<!-- logo and main page link -->
 				<div id="p-logo" class="p-logo navbar-brand" role="banner">
-					<a href="Provider_Home" title="Visit the main page"><img src="../resources/assets/UL.png" alt="UofL General Peds"/></a>
+					<a href="Provider_Home.html" title="Visit the main page"><img src="../resources/assets/UL.png" alt="UofL General Peds"/></a>
 				</div>
 
 
@@ -40,7 +40,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 			<div class="collapse navbar-collapse" id="mw-navigation-collapse"><ul class="nav navbar-nav">
 				<!-- navigation -->
-				<li id="n-Provider-Home"><a href="Provider_Home">Provider Home</a></li>
+				<li id="n-Provider-Home"><a href="Provider_Home.html">Provider Home</a></li>
 				<li id="n-Nursing-Home"><a href="Nursing_Home">Nursing Home</a></li></ul>
 
 				<div class="navbar-right-aligned">
@@ -63,7 +63,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 						<li class="dropdown navbar-tools-tools">
 							<a class="dropdown-toggle navbar-usernotloggedin" href="Obsessive-Compulsive_Disorder#" data-toggle="dropdown" title="You are not logged in." ><span class="glyphicon glyphicon-user"></span></a>
 							<ul class="p-personal-tools dropdown-menu dropdown-menu-right" >
-								<li id="pt-login"><a href="../index.php?title=Special:UserLogin&amp;returnto=Obsessive-Compulsive+Disorder" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+								<li id="pt-login"><a href="../index.php?title=Special:UserLogin&amp;returnto=Obsessive-Compulsive+Disorder.html" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -85,7 +85,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 				<!-- logo and main page link -->
 				<div id="p-logo-hcs35q1t44" class="p-logo navbar-brand" role="banner">
-					<a href="Provider_Home" title="Visit the main page"><img src="../resources/assets/UL.png" alt="UofL General Peds"/></a>
+					<a href="Provider_Home.html" title="Visit the main page"><img src="../resources/assets/UL.png" alt="UofL General Peds"/></a>
 				</div>
 
 
@@ -93,7 +93,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 
 			<div class="collapse navbar-collapse" id="mw-navigation-hcs35q1swa-collapse"><ul class="nav navbar-nav">
 				<!-- navigation -->
-				<li id="n-Provider-Home-hcs35q1tce"><a href="Provider_Home">Provider Home</a></li>
+				<li id="n-Provider-Home-hcs35q1tce"><a href="Provider_Home.html">Provider Home</a></li>
 				<li id="n-Nursing-Home-hcs35q1ti9"><a href="Nursing_Home">Nursing Home</a></li></ul>
 
 				<div class="navbar-right-aligned">
@@ -116,7 +116,7 @@ mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","cs
 						<li class="dropdown navbar-tools-tools">
 							<a class="dropdown-toggle navbar-usernotloggedin" href="Obsessive-Compulsive_Disorder#" data-toggle="dropdown" title="You are not logged in." ><span class="glyphicon glyphicon-user"></span></a>
 							<ul class="p-personal-tools dropdown-menu dropdown-menu-right" >
-								<li id="pt-login-hcs35q1v6k"><a href="../index.php?title=Special:UserLogin&amp;returnto=Obsessive-Compulsive+Disorder" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+								<li id="pt-login-hcs35q1v6k"><a href="../index.php?title=Special:UserLogin&amp;returnto=Obsessive-Compulsive+Disorder.html" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
 							</ul>
 						</li>
 					</ul>
